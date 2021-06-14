@@ -1,4 +1,4 @@
---SECTION 3 - JOINS --
+--SECTION 6 - JOINS --
 
   -- Modify the code to show the matchid and player name for all goals scored by Germany.
   -- To identify German players, check for: teamid = 'GER'
