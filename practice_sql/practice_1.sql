@@ -1,6 +1,6 @@
 -- SECTION 1 - SELECT NAME --
 
-  --Find the country that start with Y
+  -- Find the country that start with Y
     SELECT name FROM world
       WHERE name LIKE 'Y%'
 
